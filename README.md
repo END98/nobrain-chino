@@ -9,21 +9,17 @@
 
 ```rb
 git clone https://github.com/END98/nobrain-chino
-```
-
-インストールしたら、解凍する。
-
-```rb
+cd nobrain-chino
 python http-server.py
 ```
 
-でローカルサーバを立てて、app/simple.htmlをクリックすれば動作する。
+でローカルサーバを立てて、nobrain-chino/app/simple.htmlをクリックすれば動作する。
 
 ```rb
 http://localhost:8000/app/simple.html
 ```
 
-でチノちゃんの実力を見てみよう
+でチノちゃんの実力を見てみよう。チノちゃんをクリックすると声だしたり動いたりもするよ。
 
 
 <br>
